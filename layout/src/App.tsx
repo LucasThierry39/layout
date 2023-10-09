@@ -3,7 +3,7 @@ import { useState } from 'react'
 function App() {
 
   return (
-    <h1>Codigo generico</h1>
+    <h1>Lucas Thierry</h1>
   )
 }
 
